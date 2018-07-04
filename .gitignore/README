@@ -1,5 +1,0 @@
-Shutdown patch by squeakymouse
-
-This patch is designed to enable WMs to shut down/restart by disabling default sudoers behavior.
-Licensed under GPLv3, this little shell script can be modified, used and distributed freely as long as it's not encumbered by more rules.
-See COPYING for more information.
